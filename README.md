@@ -6,4 +6,4 @@ study more, write more, understand more
 ## js基础
 1. <a href="https://github.com/superdc/myBlogs/issues/6">事件梳理(一)</a>
 ## 前端性能优化
-1. <a href="https://github.com/superdc/myBlogs/issues/6">前端性能优化概览</a>
+1. <a href="https://github.com/superdc/myBlogs/issues/8">前端性能优化概览</a>
